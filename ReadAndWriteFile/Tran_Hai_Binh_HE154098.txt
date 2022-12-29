@@ -1,0 +1,7 @@
+Name: Tran Hai Binh
+Age: 20
+Code: HE154098
+Pro192 mark: 8.0
+Calculus mark: 7.0
+Average: 7.5
+Title: Pretty Good

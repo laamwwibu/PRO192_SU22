@@ -1,0 +1,12 @@
+1. đếm xem có bao nhiêu sách có code chứa cả số và chữ
+2. input index u want to change code
+3. change all code of all book
+4. input index u want to change code
+5. change all coce of all book (all uppercase to lowercase and viseversa)
+6. input index u want to change code (swap text position)
+	//input code: abc105hA1309ab
+    	//output code:bcd105iA1309bc
+7. sort ascending by price, equal then sort by name
+8. return list book cùng loại
+9. sap xep list tang dan theo price từ vị trí index nhập vào
+10. sắp xếp những book cùng loại theo price tăng dần

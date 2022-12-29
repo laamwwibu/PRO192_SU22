@@ -1,0 +1,7 @@
+Name: Nguyen Xuan Nam
+Age: 21
+Code: AI435001
+Pro192 mark: 9.0
+Calculus mark: 6.0
+Average: 7.5
+Title: Pretty Good
